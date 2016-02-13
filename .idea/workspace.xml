@@ -31,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="OutInstruction.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/sml/OutInstruction.scala">
+      <file leaf-file-name="SubInstruction.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/sml/SubInstruction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25731584">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.3027245">
+              <caret line="20" column="21" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -61,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/sml/MulInstruction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/sml/OutInstruction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sml/SubInstruction.scala" />
       </list>
     </option>
   </component>
@@ -226,7 +227,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="OutInstruction.scala" />
+              <option name="myItemId" value="SubInstruction.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DivInstruction.scala" />
+              <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SML" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BnzInstruction.scala" />
               <option name="myItemType" value="org.jetbrains.plugins.scala.components.ScalaDefsProjectViewProvider$ScalaFileTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -735,12 +796,12 @@
       <created>1455384559572</created>
       <option name="number" value="Default" />
       <updated>1455384559572</updated>
-      <workItem from="1455384561076" duration="6554000" />
+      <workItem from="1455384561076" duration="7001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6554000" />
+    <option name="totallyTimeSpent" value="7001000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-212" width="1920" height="1057" extended-state="6" />
@@ -819,20 +880,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27245206">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="21" />
-          <folding>
-            <marker date="1455390492000" expanded="true" signature="13:124" placeholder="/**...*/" />
-            <marker date="1455390492000" expanded="true" signature="241:536" placeholder="{...}" />
-            <marker date="1455390492000" expanded="true" signature="287:414" placeholder="{...}" />
-            <marker date="1455390492000" expanded="true" signature="454:534" placeholder="{...}" />
-            <marker date="1455390492000" expanded="true" signature="560:675" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/sml/LinInstruction.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.045408677">
@@ -884,20 +931,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10595358">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <marker date="1455391897000" expanded="true" signature="13:163" placeholder="/**...*/" />
-            <marker date="1455391897000" expanded="true" signature="291:542" placeholder="{...}" />
-            <marker date="1455391897000" expanded="true" signature="337:425" placeholder="{...}" />
-            <marker date="1455391897000" expanded="true" signature="463:540" placeholder="{...}" />
-            <marker date="1455391897000" expanded="true" signature="566:686" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/sml/MulInstruction.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.37840566">
@@ -931,6 +964,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25731584">
           <caret line="17" column="21" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1455392143000" expanded="true" signature="13:46" placeholder="/**...*/" />
+            <marker date="1455392143000" expanded="true" signature="148:331" placeholder="{...}" />
+            <marker date="1455392143000" expanded="true" signature="187:225" placeholder="{...}" />
+            <marker date="1455392143000" expanded="true" signature="263:329" placeholder="{...}" />
+            <marker date="1455392143000" expanded="true" signature="355:455" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07568113">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <marker date="1455390492000" expanded="true" signature="13:124" placeholder="/**...*/" />
+            <marker date="1455390492000" expanded="true" signature="241:536" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="287:414" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="454:534" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="560:675" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.045408677">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <marker date="1455391897000" expanded="true" signature="13:163" placeholder="/**...*/" />
+            <marker date="1455391897000" expanded="true" signature="291:542" placeholder="{...}" />
+            <marker date="1455391897000" expanded="true" signature="337:425" placeholder="{...}" />
+            <marker date="1455391897000" expanded="true" signature="463:540" placeholder="{...}" />
+            <marker date="1455391897000" expanded="true" signature="566:686" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/SubInstruction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3027245">
+          <caret line="20" column="21" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="21" />
           <folding />
         </state>
       </provider>
