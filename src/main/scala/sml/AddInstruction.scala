@@ -1,10 +1,11 @@
 package sml
 
-/**
-  * This class ....
-  *
-  * @author someone
-  */
+/*
+ 1. function obtains @params from registers: opt1 and opt2
+ 2. performs sum on both params
+ 3. writes result to register
+
+ */
 
 class AddInstruction(label: String, op: String, val result: Int, val op1: Int, val op2: Int)
   extends Instruction(label, op) {

@@ -1,5 +1,7 @@
 package sml
 
+import scala.collection.mutable.ListBuffer
+
 /*
  * The translator of a <b>S</b><b>M</b>al<b>L</b> program.
  */
@@ -38,6 +40,9 @@ class Translator(fileName: String) {
 }
 
 object Translator {
+
+  private val directory: String = "src/"
+
   def apply(file: String) =
-    new Translator(file)
+    new Translator(directory + file)
 }
