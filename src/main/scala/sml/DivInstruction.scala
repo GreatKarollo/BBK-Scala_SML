@@ -14,12 +14,11 @@ class DivInstruction(label: String, op: String, val result: Int, val opt1: Int, 
   }
 
   override def toString(): String = {
-    super.toString + " " + opt1 + " ÷ " + opt2 + " to " + result + "\n"
+    super.toString + " " + opt1 + " / " + opt2 + " to " + result + "\n"
   }
+}
 
-  object DivInstruction {
-    def apply(label: String, result: Int, op1: Int, op2: Int) =
-      new DivInstruction(label, "div", result, op1, op2)
-  }
-
+object DivInstruction {
+  def apply(label: String, result: Int, op1: Int, op2: Int) =
+    new DivInstruction(label, "div", result, op1, op2)
 }
