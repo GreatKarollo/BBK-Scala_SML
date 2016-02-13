@@ -20,6 +20,7 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -30,11 +31,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BnzInstruction.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala">
+      <file leaf-file-name="DivInstruction.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3481332">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.10595358">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -56,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/sml_test/SmlSpecs.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/sml/AddInstruction.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala" />
       </list>
     </option>
   </component>
@@ -395,12 +397,12 @@
       <created>1455384559572</created>
       <option name="number" value="Default" />
       <updated>1455384559572</updated>
-      <workItem from="1455384561076" duration="5030000" />
+      <workItem from="1455384561076" duration="5633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5030000" />
+    <option name="totallyTimeSpent" value="5633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-212" width="1920" height="1057" extended-state="6" />
@@ -529,10 +531,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27245206">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <marker date="1455390492000" expanded="true" signature="13:124" placeholder="/**...*/" />
+            <marker date="1455390492000" expanded="true" signature="241:536" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="287:414" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="454:534" placeholder="{...}" />
+            <marker date="1455390492000" expanded="true" signature="560:675" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/sml/AddInstruction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3481332">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.045408677">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="29" />
           <folding>
             <marker date="1455388193000" expanded="true" signature="13:141" placeholder="/.../" />
             <marker date="1455388193000" expanded="true" signature="269:515" placeholder="{...}" />
@@ -543,10 +559,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/BnzInstruction.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/sml/DivInstruction.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3481332">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.10595358">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="20" />
           <folding />
         </state>
       </provider>
