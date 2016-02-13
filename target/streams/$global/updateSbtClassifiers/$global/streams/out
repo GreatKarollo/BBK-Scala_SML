@@ -704,9 +704,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 1219ms :: artifacts dl 40ms
+[debug] :: resolution report :: resolve 905ms :: artifacts dl 34ms
 [debug] 	report for default#sml$sbt_2.11;1.0 default produced in /Users/karolsudol/BBK_SCALA/SML/target/resolution-cache/reports/default-sml$sbt_2.11-default.xml
-[debug] 	resolve done (1219ms resolve - 40ms download)
+[debug] 	resolve done (905ms resolve - 34ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#sml$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -1070,6 +1070,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 336ms :: artifacts dl 46ms
+[debug] :: resolution report :: resolve 196ms :: artifacts dl 46ms
 [debug] 	report for default#sml$sources_2.11;1.0 default produced in /Users/karolsudol/BBK_SCALA/SML/target/resolution-cache/reports/default-sml$sources_2.11-default.xml
-[debug] 	resolve done (336ms resolve - 46ms download)
+[debug] 	resolve done (196ms resolve - 46ms download)
