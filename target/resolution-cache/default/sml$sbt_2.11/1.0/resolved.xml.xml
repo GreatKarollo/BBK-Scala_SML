@@ -4,7 +4,7 @@
 		module="sml$sbt_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20160213205124"
+		publication="20160214114828"
 	/>
 	<configurations>
 		<conf name="default" visibility="public"/>
