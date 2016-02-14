@@ -1,8 +1,5 @@
 package sml
 
-import scala.collection.mutable.ListBuffer
-import scala.reflect.runtime.universe => ru}
-
 /*
  * The translator of a <b>S</b><b>M</b>al<b>L</b> program.
  */
@@ -30,12 +27,6 @@ class Translator(fileName: String) {
       val fields = line.split(" ")
       if (fields.length > 0) {
 
-
-        try {
-          val instructionClass = Class.forName("sml." + fields(1).capitalize + "Instruction")
-          val ru = scala.reflect.runtime
-        }
-
         labels.add(fields(0))
         fields(1) match {
           case ADD =>
@@ -62,5 +53,5 @@ object Translator {
   private val directory: String = "src/"
 
   def apply(file: String) =
-    new Translator(file)
+    new Translator(directory + file)
 }
